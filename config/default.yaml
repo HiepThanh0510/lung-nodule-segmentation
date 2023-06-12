@@ -1,0 +1,12 @@
+train: "/home/thanh/workspace/resunetpp_custom/data/training"
+valid: "/home/thanh/workspace/resunetpp_custom/data/validation"
+log: "logs"
+logging_step: 1
+validation_interval: 1000 # Save and valid have same interval
+checkpoints: "checkpoints"
+
+batch_size: 16
+lr: 0.0001
+
+
+
