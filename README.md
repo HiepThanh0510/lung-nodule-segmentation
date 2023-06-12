@@ -62,4 +62,4 @@ python inference.py
 ```
 
 ## Results
-![Alt text](image.png)
+![Alt text](result.png)
